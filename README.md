@@ -1,15 +1,10 @@
 **GitHub Profile README for Ethical Hacker**
 
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Yash Doifode 👋
 Ethical Hacker | Cybersecurity Enthusiast | Bug Bounty Hunter
 
 Welcome to my GitHub profile! Here you'll find a collection of projects, tools, and resources related to cybersecurity, ethical hacking, and digital privacy. Feel free to explore, contribute, and learn together!
-
-### 🛠️ Projects
-
-- **[Project Name]**: Brief description of the project. [Link to Project]
-- **[Project Name]**: Brief description of the project. [Link to Project]
-- **[Project Name]**: Brief description of the project. [Link to Project]
+![Ethical Hacker](https://yourwebsite.com/images/cool_hacking_gif.gif)
 
 ### 🚀 Skills
 
@@ -20,17 +15,8 @@ Welcome to my GitHub profile! Here you'll find a collection of projects, tools, 
 - **Operating Systems**: Linux (Kali, Ubuntu), Windows, macOS
 - **Cryptographic Protocols**: SSL/TLS, SSH, AES, RSA
 
-### 📚 Resources
 
-- **[Resource Name]**: Description of the resource. [Link to Resource]
-- **[Resource Name]**: Description of the resource. [Link to Resource]
-- **[Resource Name]**: Description of the resource. [Link to Resource]
 
-### 🔍 Bug Bounty Acknowledgements
-
-- **[Platform Name]**: Description of the vulnerability found. [Link to Acknowledgement]
-- **[Platform Name]**: Description of the vulnerability found. [Link to Acknowledgement]
-- **[Platform Name]**: Description of the vulnerability found. [Link to Acknowledgement]
 
 ### 📫 Connect with Me
 
