@@ -1,41 +1,52 @@
-**GitHub Profile README for Ethical Hacker**
+# Social Media Platform 🌐
 
-### Hi there, I'm Yash Doifode 👋
-Ethical Hacker | Cybersecurity Enthusiast | Bug Bounty Hunter
+Welcome to our Social Media Platform! This platform allows users to register, create posts, comment on posts, and interact with other users.
 
-Welcome to my GitHub profile! Here you'll find a collection of projects, tools, and resources related to cybersecurity, ethical hacking, and digital privacy. Feel free to explore, contribute, and learn together!
-![Ethical Hacker](https://yourwebsite.com/images/cool_hacking_gif.gif)
+## Features ✨
 
-### 🚀 Skills
+- User registration and authentication
+- Post creation and deletion
+- Commenting on posts
+- Profile management
+- Real-time notifications
 
-- **Programming Languages**: Python, JavaScript, Java, C/C++
-- **Penetration Testing Tools**: Burp Suite, Metasploit, Nmap, Wireshark
-- **Web Application Security**: OWASP Top 10, XSS, CSRF, SQL Injection
-- **Network Security**: Firewall Configuration, IDS/IPS, VPNs
-- **Operating Systems**: Linux (Kali, Ubuntu), Windows, macOS
-- **Cryptographic Protocols**: SSL/TLS, SSH, AES, RSA
+## Technologies Used 💻
 
+- HTML/CSS
+- JavaScript (with jQuery)
+- PHP (with MySQL)
+- Bootstrap
+- Zoom API (for video conferencing)
+- Other third-party libraries
 
+## Screenshots 📷
 
+### Registration Page
+![Registration Page](screenshots/registration.png)
 
-### 📫 Connect with Me
+### Home Page
+![Home Page](screenshots/home.png)
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- Personal Website: [Your Website](https://www.yourwebsite.com)
+### Profile Page
+![Profile Page](screenshots/profile.png)
 
-### 🙏 Acknowledgements
+## Getting Started 🚀
 
-Special thanks to the cybersecurity community for their constant support and collaboration.
+1. Clone the repository:
 
-### 🤝 Contributing
+2. Import the SQL database schema from `database.sql` into your MySQL database.
 
-Contributions are welcome! If you have any suggestions, improvements, or new ideas, feel free to open an issue or submit a pull request.
+3. Configure the database connection settings in `includes/db.php`.
 
-### 📝 License
+4. Start the PHP development server:
+   php -S localhost:8000
 
-This repository and its contents are open-source under the [MIT License](LICENSE).
+6. Open your web browser and navigate to `http://localhost:8000` to access the application.
 
----
+## Contributing 🤝
 
-*Note: Customize the sections, projects, skills, and resources according to your profile and contributions.*
+Contributions are welcome! Please feel free to open issues or submit pull requests.
+
+## License 📄
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
