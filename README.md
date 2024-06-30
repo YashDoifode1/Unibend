@@ -16,7 +16,6 @@ Welcome to our Social Media Platform! This platform allows users to register, cr
 - JavaScript (with jQuery)
 - PHP (with MySQL)
 - Bootstrap
-- Zoom API (for video conferencing)
 - Other third-party libraries
 
 ## Screenshots 📷
